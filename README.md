@@ -1,2 +1,3 @@
-# sjson421.github.io
-Jay Son's portfolio website
+# Portfolio
+
+This is a portfolio website for showing my past projects.

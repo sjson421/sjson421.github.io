@@ -4687,3 +4687,9 @@ input, select, textarea {
 		}
 
 	}
+.center {
+	text-align: center
+}
+.navicons {
+	text-align: right
+}
